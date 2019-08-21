@@ -27,11 +27,11 @@ Tuesday, August 20, 2019
 [Editorial - BART's plans, initiatives need to stay on track](https://www.google.com/url?client=internal-uds-cse&cx=004860988773045794728:o9buhn1rb8k&q=https://www.dailycal.org/2019/08/15/barts-plans-initiatives-need-to-stay-on-track/&sa=U&ved=2ahUKEwj6vr62mJTkAhWWFTQIHRN7ArwQFjALegQIDBAC&usg=AOvVaw0hR4it-iNNl8hH4hTf1h31)  | Editorial Board  |   | 2019/08/15
 [BART Federal Grant](https://www.dailycal.org/2019/08/19/bart-secures-federal-grant-for-anti-terrorist-police-patrol-team/) | [Lev Gordon-Feierabend](https://www.dailycal.org/author/lgordonfeierabend/) |  | 2019/08/19
   |   |   |
-[BART announces plans to replace 3,200 feet of 3rd rail](https://www.dailycal.org/2019/08/06/bart-announces-plans-to-replace-3200-feet-of-3rd-rail-using-measure-rr-funds/) |   |  |  2019/08/06
-[BART appoints Robert Powers as 10th general manager](https://www.google.com/url?client=internal-uds-cse&cx=004860988773045794728:o9buhn1rb8k&q=https://www.dailycal.org/2019/08/02/bart-appoints-robert-powers-as-10th-general-manager/&sa=U&ved=2ahUKEwj6vr62mJTkAhWWFTQIHRN7ArwQFjAEegQIHxAC&usg=AOvVaw3Rqupk80Hg--Ls45yU13Hz)  |   |  | 2019/08/02
+[BART announces plans to replace 3,200 feet of 3rd rail](https://www.dailycal.org/2019/08/06/bart-announces-plans-to-replace-3200-feet-of-3rd-rail-using-measure-rr-funds/) |  [SURYAN BHATIA](https://www.dailycal.org/author/sbhatia/)   |  |  2019/08/06
+[BART appoints Robert Powers as 10th general manager](https://www.google.com/url?client=internal-uds-cse&cx=004860988773045794728:o9buhn1rb8k&q=https://www.dailycal.org/2019/08/02/bart-appoints-robert-powers-as-10th-general-manager/&sa=U&ved=2ahUKEwj6vr62mJTkAhWWFTQIHRN7ArwQFjAEegQIHxAC&usg=AOvVaw3Rqupk80Hg--Ls45yU13Hz)  | [MEERA SRINIVASAN](https://www.dailycal.org/author/msrinivasan/)  |  | 2019/08/02
   |   |   |
 [BART $3.5 billion Infrastructure bond]() |    |    |
-[BART aims to increase safety with 2020 budget, fare increase](https://www.google.com/url?client=internal-uds-cse&cx=004860988773045794728:o9buhn1rb8k&q=https://www.dailycal.org/2019/06/19/bart-aims-to-increase-safety-with-2020-budget-fare-increase/&sa=U&ved=2ahUKEwiTrK63m5TkAhUZITQIHYNmA0YQFjAOegQIAhAC&usg=AOvVaw1ChPySFC2P2JI1CXule3lo) |   |    | 2019/06/19
+[BART aims to increase safety with 2020 budget, fare increase](https://www.google.com/url?client=internal-uds-cse&cx=004860988773045794728:o9buhn1rb8k&q=https://www.dailycal.org/2019/06/19/bart-aims-to-increase-safety-with-2020-budget-fare-increase/&sa=U&ved=2ahUKEwiTrK63m5TkAhUZITQIHYNmA0YQFjAOegQIAhAC&usg=AOvVaw1ChPySFC2P2JI1CXule3lo) | [YASMIN GRAEML](https://www.dailycal.org/author/ygraeml/)  |    | 2019/06/19
 [BART Budget](https://www.bart.gov/about/financials)  |    |   |
 |   |   |   |
 [BART announces plans for rail car assembly site in Bay Area](https://www.dailycal.org/2019/06/18/bart-announces-plans-for-rail-car-assembly-site-in-bay-area/) |   |   | 2019/06/18
