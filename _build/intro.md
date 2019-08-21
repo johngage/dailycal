@@ -62,6 +62,9 @@ This week, the new [Data Science Division](https://campustechnology.com/articles
 
 In Spring, 2019, over two thousand students took Data Science 8, and over one thousand took the sequential course, Data Science 100. EdX had over 50,000 students take the course, world-wide.
 
+If you want a [quick, free introduction](https://www.edx.org/course/foundations-of-data-science-computational-thinking-with-python-0),
+sign up for Berkeley Data Science 8X, just a few weeks course at EdX.
+
 ## Jupyter Books
 
 For an example of a book built with Jupyter Books, see the [textbook for Data 100](https://www.textbook.ds100.org/) at UC Berkeley.
