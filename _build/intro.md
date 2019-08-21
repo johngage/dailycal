@@ -14,6 +14,8 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 
 Can every story containing numerical data, maps, or statistics published by the Daily Cal be accompanied by an online Jupyter notebook with open access to all supporting data?
 
+Look at some stories from the past few weeks.
+
 From `BERKELEY’S NEWS
 Tuesday, August 20, 2019
 `
