@@ -2,7 +2,7 @@
 interact_link: content/notebooks/bartpop.ipynb
 kernel_name: python3
 has_widgets: false
-title: 'BART customer Analysis'
+title: 'BART Customer Satisfaction Survey'
 prev_page:
   url: /datajournalism/sciencejournalism.html
   title: 'Scientific Data journalism'
@@ -186,28 +186,21 @@ bartpop
 <div markdown="1" class="cell code_cell">
 <div class="input_area" markdown="1">
 ```python
-bartpop.plot(x="Year",y="Very or Somewhat Satisfied")
+ax= plt.gca()
+
+bartpop.plot(kind='line',x="Year",y="Very or Somewhat Satisfied", color='red', ax=ax)
+bartpop.plot(kind='line',x="Year",y="Somewhat Dissatisfied", color='blue', ax=ax)
+
+plt.show()
 
 ```
 </div>
 
-<div class="output_wrapper" markdown="1">
-<div class="output_subarea" markdown="1">
-
-
-{:.output_data_text}
-```
-<matplotlib.axes._subplots.AxesSubplot at 0x114bf7810>
-```
-
-
-</div>
-</div>
 <div class="output_wrapper" markdown="1">
 <div class="output_subarea" markdown="1">
 
 {:.output_png}
-![png](../images/notebooks/bartpop_3_1.png)
+![png](../images/notebooks/bartpop_3_0.png)
 
 </div>
 </div>
