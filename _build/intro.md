@@ -8,21 +8,27 @@ next_page:
   title: 'Data Journalism'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-# Books with Jupyter and Jekyll
+# The Daily Californian, data-backed stories, Jupyter Notebooks, and Jupyter Books
+
+Can the [Daily Cal](https://www.dailycal.org/) build a new form of journalism built on open data and open analysis? 
+
+Can every story containing numerical data, maps, or statistics published by the Daily Cal be accompanied by an online Jupyter notebook with open access to all supporting data?
 
 <img src="https://circleci.com/gh/jupyter/jupyter-book.svg?style=svg" class="left">
 
-Jupyter Books lets you build an online book using a collection of Jupyter Notebooks
-and Markdown files, adding extra functionality for people running a Jupyter stack.
+Jupyter Books combine Jupyter Notebooks with online publishing machinery to let you build an online newspaper using a collection of Jupyter Notebooks
+and Markdown files, while adding extra functionality for people running Jupyter data analysis.
 
-Key innovations from University of California, Berkeley are transforming scientific research, data analysis, and publishing.
+These powerful innovations were created at the University of California, Berkeley, and are transforming scientific research, data analysis, pedagogy and publishing.
+
+The core innovation in intellectual technology that has lead to the explosion of data science and its companion disciplines of machine learning, causal inference, and prediction is a powerful integration of text and computation called Jupyter Notebooks. The name is derived from the names of two interactive programming languages, Julia and Python, and their integration with text, diagrams, and visualizations.
 
 Jupyter Notebooks were created by Fernando Pérez, UCB Statistics and Berkeley Institite of Data Science.
 Here is a 2019 video of Pérez explaining the origins of repeatable data analysis, using a Berkeley-developed geophysics example, Pangeo.
 
 The famous Berkeley course, [Data Science 8]() was created three years ago in a remarkable collaboration among several Berkeley departments, including Computer Science, Statistics, Public Policy, Physics, Astronomy, City Planning, and others.
 
-This week, the new [Data Science Division](https://campustechnology.com/articles/2018/11/29/berkeley-setting-up-division-to-build-on-data-sciences-momentum.aspx) found its [new permanent Dean, Jennifer Chayes](https://bsa.berkeley.edu/news/announcement-associate-provost-division-data-science-and-information-and-dean-school) who also assumes the new Associate Provost for the Division of Data Science position: 
+This week, the new [Data Science Division](https://campustechnology.com/articles/2018/11/29/berkeley-setting-up-division-to-build-on-data-sciences-momentum.aspx) found its [new permanent Dean, Jennifer Chayes](https://bsa.berkeley.edu/news/announcement-associate-provost-division-data-science-and-information-and-dean-school) who also assumes the new Associate Provost for the Division of Data Science position:
 
 In Spring, 2019, over two thousand students took Data Science 8, and over one thousand took the sequential course, Data Science 100.
 
