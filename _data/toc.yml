@@ -25,13 +25,15 @@
 - title: Daily Cal and Data Science
   url: /intro
   not_numbered: true
+- title: Editorial,August 15,2019- BART,annotated
+  url: /BART/2019-Aug-15
 - title: Data Journalism
   url: /datajournalism/databackedjournalism
   sections:
     - title: UCB Data Science 88 for Fall 2019
-      url: datajournalism/jdata88
+      url: /datajournalism/jdata88
     - title: Scientific Data journalism
-      url: datajournalism/sciencejournalism
+      url: /datajournalism/sciencejournalism
 
 # External link
 #- title: GitHub repository
