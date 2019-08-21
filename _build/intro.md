@@ -34,7 +34,7 @@ Tuesday, August 20, 2019
 
 <img src="https://circleci.com/gh/jupyter/jupyter-book.svg?style=svg" class="left">
 
-Jupyter Books combine Jupyter Notebooks with online publishing machinery to let you build an online newspaper using a collection of Jupyter Notebooks
+Jupyter Books combine Jupyter Notebooks with online publishing machinery to let you build an online data-analytic newspaper using a collection of Jupyter Notebooks
 and Markdown files, while adding extra functionality for Jupyter data analysis.
 
 These powerful innovations were created at the University of California, Berkeley, and are transforming scientific research, data analysis, pedagogy and publishing.
