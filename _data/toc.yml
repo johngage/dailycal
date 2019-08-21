@@ -38,6 +38,8 @@
       url: /datajournalism/jdata88
     - title: Scientific Data journalism
       url: /datajournalism/sciencejournalism
+- title: BART customer Analysis
+  url: /notebooks/bartpop
 
 # External link
 #- title: GitHub repository
