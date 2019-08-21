@@ -8,26 +8,34 @@ next_page:
   title: 'Data Journalism'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-# The Daily Californian, data-backed stories, Jupyter Notebooks, and Jupyter Books
+# The Daily Californian and data-backed stories
 
-Can the [Daily Cal](https://www.dailycal.org/) build a new form of journalism built on open data and open analysis?
+## Can the [**Daily Cal**](https://www.dailycal.org/) develop and extend new forms of journalism built on open data, open analysis, and open sources?
 
 Can every story containing numerical data, maps, or statistics published by the Daily Cal be accompanied by an online Jupyter notebook with open access to all supporting data?
 
 From `BERKELEY’S NEWS
 Tuesday, August 20, 2019
 `
+ Story | Author | Data Source and Analysis | Date
+:---: | :---: | :---: | :---:
+[Editorial | BART's plans, initiatives need to stay on track](https://www.google.com/url?client=internal-uds-cse&cx=004860988773045794728:o9buhn1rb8k&q=https://www.dailycal.org/2019/08/15/barts-plans-initiatives-need-to-stay-on-track/&sa=U&ved=2ahUKEwj6vr62mJTkAhWWFTQIHRN7ArwQFjALegQIDBAC&usg=AOvVaw0hR4it-iNNl8hH4hTf1h31)  | Editorial Board  |   | 2019/08/15
+[BART Federal Grant](https://www.dailycal.org/2019/08/19/bart-secures-federal-grant-for-anti-terrorist-police-patrol-team/) |[Lev Gordon-Feierabend](https://www.dailycal.org/author/lgordonfeierabend/) |  | 2019/08/19
+[BART announces plans to replace 3,200 feet of 3rd rail](https://www.dailycal.org/2019/08/06/bart-announces-plans-to-replace-3200-feet-of-3rd-rail-using-measure-rr-funds/) |   |  2019/08/06
+[BART appoints Robert Powers as 10th general manager](https://www.google.com/url?client=internal-uds-cse&cx=004860988773045794728:o9buhn1rb8k&q=https://www.dailycal.org/2019/08/02/bart-appoints-robert-powers-as-10th-general-manager/&sa=U&ved=2ahUKEwj6vr62mJTkAhWWFTQIHRN7ArwQFjAEegQIHxAC&usg=AOvVaw3Rqupk80Hg--Ls45yU13Hz)  |   |  | 2019/08/02
+[BART $3.5 billion Infrastructure bond]() |   | |
+[BART aims to increase safety with 2020 budget, fare increase](https://www.google.com/url?client=internal-uds-cse&cx=004860988773045794728:o9buhn1rb8k&q=https://www.dailycal.org/2019/06/19/bart-aims-to-increase-safety-with-2020-budget-fare-increase/&sa=U&ved=2ahUKEwiTrK63m5TkAhUZITQIHYNmA0YQFjAOegQIAhAC&usg=AOvVaw1ChPySFC2P2JI1CXule3lo)|   |   |   |[BART aims to increase safety with 2020 budget, fare increase](https://www.dailycal.org/2019/06/19/bart-aims-to-increase-safety-with-2020-budget-fare-increase/) |  |2019/06/19
+[BART Budget](https://www.bart.gov/about/financials)  |   |  |
+[BART announces plans for rail car assembly site in Bay Area](https://www.dailycal.org/2019/06/18/bart-announces-plans-for-rail-car-assembly-site-in-bay-area/) |  |2019/06/18
+[Berkeley wades into developing North Berkeley BART station](https://www.google.com/url?client=internal-uds-cse&cx=004860988773045794728:o9buhn1rb8k&q=https://www.dailycal.org/2019/05/13/balancing-resident-input-berkeley-wades-into-developing-north-berkeley-bart-station/&sa=U&ved=2ahUKEwj6vr62mJTkAhWWFTQIHRN7ArwQFjAAegQIIxAC&usg=AOvVaw1OcFjvmetiJOtDiOFrDmbm)|  |  |2019/05/13
 
-Story | Author | Data Source and Analysis
-:---: | :---: | :---:
-[BART Federal Grant](https://www.dailycal.org/2019/08/19/bart-secures-federal-grant-for-anti-terrorist-police-patrol-team/) |[Lev Gordon-Feierabend](https://www.dailycal.org/author/lgordonfeierabend/) | [BART Budget](https://www.bart.gov/about/financials)
-BART $3.5 billion Infrastructure bond |   |
+
 
 
 <img src="https://circleci.com/gh/jupyter/jupyter-book.svg?style=svg" class="left">
 
 Jupyter Books combine Jupyter Notebooks with online publishing machinery to let you build an online newspaper using a collection of Jupyter Notebooks
-and Markdown files, while adding extra functionality for people running Jupyter data analysis.
+and Markdown files, while adding extra functionality for Jupyter data analysis.
 
 These powerful innovations were created at the University of California, Berkeley, and are transforming scientific research, data analysis, pedagogy and publishing.
 
