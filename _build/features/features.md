@@ -1,8 +1,8 @@
 ---
 title: 'Features and customization'
 prev_page:
-  url: https://github.com/jupyter/jupyter-book
-  title: 'GitHub repository'
+  url: /datajournalism/databackedjournalism.html
+  title: 'Data Journalism'
 next_page:
   url: /features/markdown.html
   title: 'Markdown files'

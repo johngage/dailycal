@@ -22,15 +22,17 @@
 # See the links below for an example.
 
 # Top-level page
-- title: Home
+- title: Daily Cal and Data Science
   url: /intro
   not_numbered: true
+- title: Data Journalism
+  url: /datajournalism/databackedjournalism
 
 # External link
-- title: GitHub repository
-  url: https://github.com/jupyter/jupyter-book
-  external: true
-  not_numbered: true
+#- title: GitHub repository
+#  url: https://github.com/jupyter/jupyter-book
+#  external: true
+#  not_numbered: true
 
 # Adds a searchbar link
 - title: Search

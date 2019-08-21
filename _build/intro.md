@@ -1,11 +1,11 @@
 ---
-title: 'Home'
+title: 'Daily Cal and Data Science'
 prev_page:
   url: 
   title: ''
 next_page:
-  url: https://github.com/jupyter/jupyter-book
-  title: 'GitHub repository'
+  url: /datajournalism/databackedjournalism.html
+  title: 'Data Journalism'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
 # Books with Jupyter and Jekyll
