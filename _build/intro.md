@@ -4,8 +4,8 @@ prev_page:
   url: 
   title: ''
 next_page:
-  url: /datajournalism/databackedjournalism.html
-  title: 'Data Journalism'
+  url: /BART/2019-Aug-15.html
+  title: 'Editorial,August 15,2019- BART,annotated'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
 # The Daily Californian and data-backed stories
@@ -14,7 +14,7 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 
 Can every story containing numerical data, maps, or statistics published by the Daily Cal be accompanied by an online Jupyter notebook with open access to all supporting data?
 
-Look at some stories from the past few weeks. 1
+Look at some stories from the past few weeks. I've put a Jupyter Notebook in the Editorial, where there's an assertion of declining satisfaction.  The JN creates a graph for the past five years of BART's customer satisfaction survey.  You can run the notebook, live, using the buttons at the top of the page.
 
 
 From `BERKELEY’S NEWS
