@@ -18,13 +18,12 @@ Tuesday, August 20, 2019
 [BART Federal Grant](https://www.dailycal.org/2019/08/19/bart-secures-federal-grant-for-anti-terrorist-police-patrol-team/) | [Lev Gordon-Feierabend](https://www.dailycal.org/author/lgordonfeierabend/) |  | 2019/08/19
   |   |   |
 [BART announces plans to replace 3,200 feet of 3rd rail](https://www.dailycal.org/2019/08/06/bart-announces-plans-to-replace-3200-feet-of-3rd-rail-using-measure-rr-funds/) |   |  |  2019/08/06
-
-
-
 [BART appoints Robert Powers as 10th general manager](https://www.google.com/url?client=internal-uds-cse&cx=004860988773045794728:o9buhn1rb8k&q=https://www.dailycal.org/2019/08/02/bart-appoints-robert-powers-as-10th-general-manager/&sa=U&ved=2ahUKEwj6vr62mJTkAhWWFTQIHRN7ArwQFjAEegQIHxAC&usg=AOvVaw3Rqupk80Hg--Ls45yU13Hz)  |   |  | 2019/08/02
   |   |   |
 [BART $3.5 billion Infrastructure bond]() |    |    |
-|   |   |   |
+
+
+
 [BART aims to increase safety with 2020 budget, fare increase](https://www.google.com/url?client=internal-uds-cse&cx=004860988773045794728:o9buhn1rb8k&q=https://www.dailycal.org/2019/06/19/bart-aims-to-increase-safety-with-2020-budget-fare-increase/&sa=U&ved=2ahUKEwiTrK63m5TkAhUZITQIHYNmA0YQFjAOegQIAhAC&usg=AOvVaw1ChPySFC2P2JI1CXule3lo) |   |    | 2019/06/19
 |   |   |   |
 [BART aims to increase safety with 2020 budget, fare increase](https://www.dailycal.org/2019/06/19/bart-aims-to-increase-safety-with-2020-budget-fare-increase/) |   |   | 2019/06/19
