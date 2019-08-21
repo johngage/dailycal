@@ -23,7 +23,7 @@ Tuesday, August 20, 2019
 
 
  Story | Author | Data Source and Analysis | Date
-:---: | :---: | :---: | :---:
+:--- | :---: | :---: | :---:
 [Editorial - BART's plans, initiatives need to stay on track](https://www.google.com/url?client=internal-uds-cse&cx=004860988773045794728:o9buhn1rb8k&q=https://www.dailycal.org/2019/08/15/barts-plans-initiatives-need-to-stay-on-track/&sa=U&ved=2ahUKEwj6vr62mJTkAhWWFTQIHRN7ArwQFjALegQIDBAC&usg=AOvVaw0hR4it-iNNl8hH4hTf1h31)  | Editorial Board  |   | 2019/08/15
 [BART Federal Grant](https://www.dailycal.org/2019/08/19/bart-secures-federal-grant-for-anti-terrorist-police-patrol-team/) | [Lev Gordon-Feierabend](https://www.dailycal.org/author/lgordonfeierabend/) |  | 2019/08/19
   |   |   |
@@ -35,8 +35,6 @@ Tuesday, August 20, 2019
 [BART Budget](https://www.bart.gov/about/financials)  |    |   |
 |   |   |   |
 [BART announces plans for rail car assembly site in Bay Area](https://www.dailycal.org/2019/06/18/bart-announces-plans-for-rail-car-assembly-site-in-bay-area/) |   |   | 2019/06/18
-
-
 [Berkeley wades into developing North Berkeley BART station](https://www.google.com/url?client=internal-uds-cse&cx=004860988773045794728:o9buhn1rb8k&q=https://www.dailycal.org/2019/05/13/balancing-resident-input-berkeley-wades-into-developing-north-berkeley-bart-station/&sa=U&ved=2ahUKEwj6vr62mJTkAhWWFTQIHRN7ArwQFjAAegQIIxAC&usg=AOvVaw1OcFjvmetiJOtDiOFrDmbm)|  |  | 2019/05/13
   |   |   |
 
