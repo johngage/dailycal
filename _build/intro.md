@@ -41,7 +41,7 @@ Tuesday, August 20, 2019
 
 
 
-<img src="https://circleci.com/gh/jupyter/jupyter-book.svg?style=svg" class="left">
+<img src="https://i0.wp.com/www.dailycal.org/assets/uploads/2019/08/coloredited_alexanderhong_bart_editorial.png?ssl=1&w=900" class="left"> 
 
 Jupyter Books combine Jupyter Notebooks with online publishing machinery to let you build an online data-analytic newspaper using a collection of Jupyter Notebooks
 and Markdown files, while adding extra functionality for Jupyter data analysis.
