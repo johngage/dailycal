@@ -15,13 +15,12 @@ Tuesday, August 20, 2019
  Story | Author | Data Source and Analysis | Date
 :---: | :---: | :---: | :---:
 [Editorial - BART's plans, initiatives need to stay on track](https://www.google.com/url?client=internal-uds-cse&cx=004860988773045794728:o9buhn1rb8k&q=https://www.dailycal.org/2019/08/15/barts-plans-initiatives-need-to-stay-on-track/&sa=U&ved=2ahUKEwj6vr62mJTkAhWWFTQIHRN7ArwQFjALegQIDBAC&usg=AOvVaw0hR4it-iNNl8hH4hTf1h31)  | Editorial Board  |   | 2019/08/15
-
-
-
 [BART Federal Grant](https://www.dailycal.org/2019/08/19/bart-secures-federal-grant-for-anti-terrorist-police-patrol-team/) | [Lev Gordon-Feierabend](https://www.dailycal.org/author/lgordonfeierabend/) |  | 2019/08/19
   |   |   |
 [BART announces plans to replace 3,200 feet of 3rd rail](https://www.dailycal.org/2019/08/06/bart-announces-plans-to-replace-3200-feet-of-3rd-rail-using-measure-rr-funds/) |   |  |  2019/08/06
-  |   |   |
+
+
+
 [BART appoints Robert Powers as 10th general manager](https://www.google.com/url?client=internal-uds-cse&cx=004860988773045794728:o9buhn1rb8k&q=https://www.dailycal.org/2019/08/02/bart-appoints-robert-powers-as-10th-general-manager/&sa=U&ved=2ahUKEwj6vr62mJTkAhWWFTQIHRN7ArwQFjAEegQIHxAC&usg=AOvVaw3Rqupk80Hg--Ls45yU13Hz)  |   |  | 2019/08/02
   |   |   |
 [BART $3.5 billion Infrastructure bond]() |    |    |
