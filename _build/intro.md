@@ -10,9 +10,19 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 ---
 # The Daily Californian, data-backed stories, Jupyter Notebooks, and Jupyter Books
 
-Can the [Daily Cal](https://www.dailycal.org/) build a new form of journalism built on open data and open analysis? 
+Can the [Daily Cal](https://www.dailycal.org/) build a new form of journalism built on open data and open analysis?
 
 Can every story containing numerical data, maps, or statistics published by the Daily Cal be accompanied by an online Jupyter notebook with open access to all supporting data?
+
+From `BERKELEY’S NEWS
+Tuesday, August 20, 2019
+`
+
+Story | Author | Data Source and Analysis
+:---: | :---: | :---:
+[BART Federal Grant](https://www.dailycal.org/2019/08/19/bart-secures-federal-grant-for-anti-terrorist-police-patrol-team/) |[Lev Gordon-Feierabend](https://www.dailycal.org/author/lgordonfeierabend/) | [BART Budget](https://www.bart.gov/about/financials)
+BART $3.5 billion Infrastructure bond |   |
+
 
 <img src="https://circleci.com/gh/jupyter/jupyter-book.svg?style=svg" class="left">
 
