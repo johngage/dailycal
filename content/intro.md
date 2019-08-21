@@ -31,7 +31,7 @@ Tuesday, August 20, 2019
 
 
 
-<img src="https://i0.wp.com/www.dailycal.org/assets/uploads/2019/08/coloredited_alexanderhong_bart_editorial.png?ssl=1&w=900" class="left"> 
+<img src="https://i0.wp.com/www.dailycal.org/assets/uploads/2019/08/coloredited_alexanderhong_bart_editorial.png?ssl=1&w=900" class="left">
 
 Jupyter Books combine Jupyter Notebooks with online publishing machinery to let you build an online data-analytic newspaper using a collection of Jupyter Notebooks
 and Markdown files, while adding extra functionality for Jupyter data analysis.
@@ -41,7 +41,7 @@ These powerful innovations were created at the University of California, Berkele
 The core innovation in intellectual technology that has lead to the explosion of data science and its companion disciplines of machine learning, causal inference, and prediction is a powerful integration of text and computation called Jupyter Notebooks. The name is derived from the names of two interactive programming languages, Julia and Python, and their integration with text, diagrams, and visualizations.
 
 Jupyter Notebooks were created by Fernando Pérez, UCB Statistics and Berkeley Institite of Data Science.
-Here is a 2019 video of Pérez explaining the origins of repeatable data analysis, using a Berkeley-developed geophysics example, Pangeo.
+[In a 2019 TED video](https://www.youtube.com/watch?v=sla_vxu-jDk), Pérez describes Jupyter Notebooks; in this second video, he explains the [origins of repeatable data analysis](https://www.youtube.com/watch?v=g_lDvcFMimw&t=16s), using a Berkeley-developed geophysics example, Pangeo.  And here is [the Atlantic's take on the future of scientific writing](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/[]).
 
 The famous Berkeley course, [Data Science 8]() was created three years ago in a remarkable collaboration among several Berkeley departments, including Computer Science, Statistics, Public Policy, Physics, Astronomy, City Planning, and others.
 
