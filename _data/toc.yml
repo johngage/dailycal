@@ -27,6 +27,11 @@
   not_numbered: true
 - title: Data Journalism
   url: /datajournalism/databackedjournalism
+  sections:
+    - title: UCB Data Science 88 for Fall 2019
+      url: datajournalism/jdata88
+    - title: Scientific Data journalism
+      url: datajournalism/sciencejournalism
 
 # External link
 #- title: GitHub repository
