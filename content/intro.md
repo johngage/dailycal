@@ -4,7 +4,7 @@
 
 Can every story containing numerical data, maps, or statistics published by the Daily Cal be accompanied by an online Jupyter notebook with open access to all supporting data?
 
-Look at some stories from the past few weeks. I've put a Jupyter Notebook in the Editorial, where there's an assertion of declining satisfaction.  The JN creates a graph for the past five years of BART's customer satisfaction survey.  You can run the notebook, live, using the buttons at the top of the page.
+Look at some stories from the past few weeks. I've put a Jupyter Notebook in the [August 15 Editorial about BART](/BART/2019-Aug-15.html), where there's an assertion of declining customer satisfaction.  The JN creates a graph for the past five years of BART's customer satisfaction survey.  You can run the notebook, live, using the buttons at the top of the page.
 
 
 From `BERKELEY’S NEWS
