@@ -10,21 +10,29 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 ---
 # The Daily Californian and data-backed stories
 
-## Can the [**Daily Cal**](https://www.dailycal.org/) develop and extend new forms of journalism built on open data, open analysis, and open sources, building on the explosion at Cal of Data Science?
+### Can the [**Daily Cal**](https://www.dailycal.org/) develop and extend new forms of journalism built on open data, open analysis, and open sources, building on the explosion at Cal of Data Science?
 
-## Can the Daily Cal create an innovative environment to extend computational journalism, and collaborate in the work done by, for example, the [New York Times **Open** group](https://open.nytimes.com/)?
+### Can the Daily Cal create an innovative environment to extend computational journalism, and collaborate in the work done by, for example, the [New York Times **Open** group](https://open.nytimes.com/)?
 
-## Can the Daily Cal recruit hundreds of Data Science students from DS8 and DS100 to amplify and extend the data component of every story, from Sports to A&E to Opinion, from ASUC to City to State to UC to Research & Ideas?
+### Can the Daily Cal recruit hundreds of Data Science students from DS8 and DS100 to amplify and extend the data component of every story, from Sports to A&E to Opinion, from ASUC to City to State to UC to Research & Ideas?
 
-Can every story containing numerical data, maps, or statistics published by the Daily Cal be accompanied by an online Jupyter notebook with open access to all supporting data?
+### Can every story containing numerical data, maps, or statistics published by the Daily Cal be accompanied by an online Jupyter Notebook (JN) with open access to all supporting data?
 
-### Look at some Daily Cal stories from the past few weeks.
+#### Look at some Daily Cal stories from the past few weeks about BART.
+Each draws on data from BART sources, some from press releases, some from interviews, some from the Open BART data sources.
+
+**Proposal**: Build a JupyterBook for each beat, with an initial JN listing all open data sources for that beat. For each story, the beat reporter adds a Jupyter Notebook showing how a particular story's data analysis was built, what data it drew from, and what analysis was done. Over time, the beat JupyterBook will be a permanent resource for new reporters, and will develop new, unexpected insights and storytelling formats as the Jupyter tools expand.
+
+Develop this Daily Cal environment in collaboration with the Berkeley Institute for Data Science, specifically with Fernando Pérez, the creator of Jupyter Notebooks, and [Chris Holdgraf][chris] and [Sam Lau][sam], the creators of JupyterBooks. Sam taught [Data Science 100](http://www.ds100.org/su19/) this summer.
 
 I've put a Jupyter Notebook in the [August 15 Editorial about BART](./BART/2019-Aug-15.html), where there's an assertion of declining customer satisfaction.  This accompanying JN creates a graph for the past five years of BART's customer satisfaction survey, and allows the reader to redo the analysis interactively.  You can run the notebook, live, using the Belab button at the top of the page.
 
 
 From `BERKELEY’S NEWS
 Tuesday, August 20, 2019
+
+<img src="https://i0.wp.com/www.dailycal.org/assets/uploads/2019/08/coloredited_alexanderhong_bart_editorial.png?ssl=1&w=900" class="left">
+
 `
 
 
@@ -47,7 +55,6 @@ Tuesday, August 20, 2019
 
 
 
-<img src="https://i0.wp.com/www.dailycal.org/assets/uploads/2019/08/coloredited_alexanderhong_bart_editorial.png?ssl=1&w=900" class="left">
 
 Jupyter Books combine Jupyter Notebooks with online publishing machinery to let you build an online data-analytic newspaper using a collection of Jupyter Notebooks
 and Markdown files, while adding extra functionality for Jupyter data analysis.
