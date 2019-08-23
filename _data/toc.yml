@@ -28,9 +28,7 @@
 - title: Berkeley is the center of data science innovation
   url: /01BerkeleyDS/BerkeleyInnovation
   not_numbered: true
-- title: Jupyter Books
-  url: /01BerkeleyDS/jupyterbooks
-  not_numbered: true
+
 - title: Data Journalism
   url: /datajournalism/databackedjournalism
   not_numbered: true
@@ -53,7 +51,9 @@
   - title: BART Customer Satisfaction Survey
     url: /notebooks/bartpop
     not_numbered: true
-
+- title: Jupyter Books
+  url: /01BerkeleyDS/jupyterbooks
+  not_numbered: true
 # External link
 #- title: GitHub repository
 #  url: https://github.com/jupyter/jupyter-book
