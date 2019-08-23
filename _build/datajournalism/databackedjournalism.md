@@ -44,8 +44,10 @@ Financial Times|   |
 [NZZ](https://www.nzz.ch/)|   |   |
 
 
-## Initiave to link to US High School journalism classes
-The Daily Cal can link to Berkeley High School, Richmond High School, Oakland Tech, Kennedy, and other local high school journalism organizations for workshops in the area of data journalism.
+## Possible Initiative to Work With Global High School Journalism Classes and Publications
+The Daily Cal can link to Berkeley High School, Richmond High School, Oakland Tech, Kennedy High, and other local high school journalism organizations to develop Jupyter Book materials and workshops in the area of data journalism.
+
+High school journalism and newpapers generate tens of thousands of potential future journalists. As data science enters the high school curriculum, the Daily Cal can help form the environment to build computational journalism.
 
 Organization  | Members | Convention Dates
 :--- | :--- |
