@@ -1,8 +1,8 @@
 ---
 title: 'Data Journalism'
 prev_page:
-  url: /BART/datasources.html
-  title: 'BART Data sources'
+  url: /01BerkeleyDS/BerkeleyInnovation.html
+  title: 'Berkeley is the center of data science innovation'
 next_page:
   url: /datajournalism/jdata88.html
   title: 'UCB Data Science 88 for Fall 2019'
@@ -32,7 +32,7 @@ Berkeley could pioneer  developing the tools of computational reporting.
 
 Organization | Editor | Internal Groups
  :--- | :--- | :---
-New York Times  | [Dean P. Baquet](https://en.wikipedia.org/wiki/Dean_Baquet) | [Amanda Cox](https://www.nytimes.com/2019/02/28/reader-center/data-visualization-editor-amanda-cox.html) and the 2020 Group; [**Open**](https://open.nytimes.com/)
+New York Times  | [Dean P. Baquet](https://en.wikipedia.org/wiki/Dean_Baquet) | [Amanda Cox](https://www.nytimes.com/2019/02/28/reader-center/data-visualization-editor-amanda-cox.html) ; the 2020 Group; [**Open**](https://open.nytimes.com/)
 Associated Press | |[Garance "Poppy" Burke](https://blog.ap.org/announcements/ap-wins-rfk-award-for-immigration-coverage)
 Daily Californian  | [Soofie Motamedi](https://www.dailycal.org/2019/04/17/the-daily-californian-elects-soofie-motamedi-as-editor-in-chief-for-2019-20/)  |
 California Magazine  | [Pat Joseph](https://alumni.berkeley.edu/about-us) |

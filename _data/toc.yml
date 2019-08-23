@@ -25,11 +25,10 @@
 - title: Daily Cal and Data Science
   url: /intro
   not_numbered: true
-- title: Daily Cal Editorial, August 15,2019 - annotated
-  url: /BART/2019-Aug-15
-  not_numbered: true
-- title: BART Data sources
-  url: /BART/datasources
+- title: Berkeley is the center of data science innovation
+  url: /01BerkeleyDS/BerkeleyInnovation
+
+
 - title: Data Journalism
   url: /datajournalism/databackedjournalism
   expand_sections: true
@@ -38,6 +37,12 @@
       url: /datajournalism/jdata88
     - title: Scientific Data journalism
       url: /datajournalism/sciencejournalism
+
+- title: Daily Cal Editorial, August 15,2019 - annotated
+  url: /BART/2019-Aug-15
+  not_numbered: true
+- title: BART Data sources
+  url: /BART/datasources
 - title: BART Customer Satisfaction Survey
   url: /notebooks/bartpop
 
