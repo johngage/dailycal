@@ -1,13 +1,22 @@
 ---
 title: 'Data Journalism'
 prev_page:
-  url: /intro.html
-  title: 'Daily Cal and Data Science'
+  url: /BART/datasources.html
+  title: 'BART Data sources'
 next_page:
-  url: /features/features.html
-  title: 'Features and customization'
+  url: /datajournalism/jdata88.html
+  title: 'UCB Data Science 88 for Fall 2019'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
+# Reforming journalism for 2020
+
+In 2017, the New York Times formed a 7-reporter group--**The 2020 Group**--to outline the newsroom's future.
+Their report: [_Journalism That Stands Apart_](https://www.nytimes.com/projects/2020-report/index.html) | David Leonhardt, Jodi Rudoren, Jon Galinsky, Karron Skog, Marc Lacey, Tom Giratikanon and Tyson Evans
+:--- | :---
+
+In 2017, Jupyter Notebooks were just emerging.  Today, their report would extend their understanding of the "digital revolution" to include computational reporting.
+
+
 ## All numerically-based assertions in any story should be accompanied by a Jupyter notebook
 ### Containing:
 - all data source references

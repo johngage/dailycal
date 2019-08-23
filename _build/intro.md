@@ -10,11 +10,17 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 ---
 # The Daily Californian and data-backed stories
 
-## Can the [**Daily Cal**](https://www.dailycal.org/) develop and extend new forms of journalism built on open data, open analysis, and open sources?
+## Can the [**Daily Cal**](https://www.dailycal.org/) develop and extend new forms of journalism built on open data, open analysis, and open sources, building on the explosion at Cal of Data Science?
+
+## Can the Daily Cal create an innovative environment to extend computational journalism, and collaborate in the work done by, for example, the [New York Times **Open** group](https://open.nytimes.com/)?
+
+## Can the Daily Cal recruit hundreds of Data Science students from DS8 and DS100 to amplify and extend the data component of every story, from Sports to A&E to Opinion, from ASUC to City to State to UC to Research & Ideas?
 
 Can every story containing numerical data, maps, or statistics published by the Daily Cal be accompanied by an online Jupyter notebook with open access to all supporting data?
 
-Look at some stories from the past few weeks. I've put a Jupyter Notebook in the [August 15 Editorial about BART](./BART/2019-Aug-15.html), where there's an assertion of declining customer satisfaction.  The JN creates a graph for the past five years of BART's customer satisfaction survey.  You can run the notebook, live, using the buttons at the top of the page.
+### Look at some Daily Cal stories from the past few weeks.
+
+I've put a Jupyter Notebook in the [August 15 Editorial about BART](./BART/2019-Aug-15.html), where there's an assertion of declining customer satisfaction.  This accompanying JN creates a graph for the past five years of BART's customer satisfaction survey, and allows the reader to redo the analysis interactively.  You can run the notebook, live, using the Belab button at the top of the page.
 
 
 From `BERKELEY’S NEWS
@@ -22,9 +28,9 @@ Tuesday, August 20, 2019
 `
 
 
- Story | Author | Data Source and Analysis | Date
+ Story | Author | Data Sources and Analysis | Date
 :--- | :---: | :---: | :---:
-[Editorial - BART's plans, initiatives need to stay on track](https://www.google.com/url?client=internal-uds-cse&cx=004860988773045794728:o9buhn1rb8k&q=https://www.dailycal.org/2019/08/15/barts-plans-initiatives-need-to-stay-on-track/&sa=U&ved=2ahUKEwj6vr62mJTkAhWWFTQIHRN7ArwQFjALegQIDBAC&usg=AOvVaw0hR4it-iNNl8hH4hTf1h31)  | Editorial Board  |   | 2019/08/15
+[Editorial - BART's plans, initiatives need to stay on track](https://www.google.com/url?client=internal-uds-cse&cx=004860988773045794728:o9buhn1rb8k&q=https://www.dailycal.org/2019/08/15/barts-plans-initiatives-need-to-stay-on-track/&sa=U&ved=2ahUKEwj6vr62mJTkAhWWFTQIHRN7ArwQFjALegQIDBAC&usg=AOvVaw0hR4it-iNNl8hH4hTf1h31)  | Editorial Board  | [**BART**](https://data.bart.gov/dataset/experience/resource/9f663eb5-ad83-4123-832c-1e778995d8f5)  | 2019/08/15
 [BART Federal Grant](https://www.dailycal.org/2019/08/19/bart-secures-federal-grant-for-anti-terrorist-police-patrol-team/) | [Lev Gordon-Feierabend](https://www.dailycal.org/author/lgordonfeierabend/) |  | 2019/08/19
   |   |   |
 [BART announces plans to replace 3,200 feet of 3rd rail](https://www.dailycal.org/2019/08/06/bart-announces-plans-to-replace-3200-feet-of-3rd-rail-using-measure-rr-funds/) |  [SURYAN BHATIA](https://www.dailycal.org/author/sbhatia/)   |  |  2019/08/06
