@@ -16,6 +16,8 @@ Develop this Daily Cal environment in collaboration with the Berkeley Institute 
 
 
 (Mobile users, note `Toggle Sidebar` button, above)
+
+
 ___
 
 As an example, I've put a Jupyter Notebook in the Daily Cal [August 15 Editorial about BART](./BART/2019-Aug-15.html), where there's an assertion of declining customer satisfaction.  This accompanying JN creates a graph for the past five years of BART's customer satisfaction survey, using BART online data, and allows the reader to redo the analysis interactively.  You can run the notebook, live, using the Belab button at the top of the page.
