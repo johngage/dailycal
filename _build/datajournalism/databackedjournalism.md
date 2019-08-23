@@ -8,26 +8,31 @@ next_page:
   title: 'UCB Data Science 88 for Fall 2019'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-# Reforming journalism for 2020
+# Reforming journalism for 2020 to incorporate data analyis
 
 In 2017, the New York Times formed a 7-reporter group--**The 2020 Group**--to outline the newsroom's future.
-Their report: [_Journalism That Stands Apart_](https://www.nytimes.com/projects/2020-report/index.html) | David Leonhardt, Jodi Rudoren, Jon Galinsky, Karron Skog, Marc Lacey, Tom Giratikanon and Tyson Evans
+
+
+[_Journalism That Stands Apart_](https://www.nytimes.com/projects/2020-report/index.html) | David Leonhardt, Jodi Rudoren, Jon Galinsky, Karron Skog, Marc Lacey, Tom Giratikanon and Tyson Evans
 :--- | :---
 
-In 2017, Jupyter Notebooks were just emerging.  Today, their report would extend their understanding of the "digital revolution" to include computational reporting.
+The 2020 Group repeatedly discuss new tools available, or that should be available, to reporters. They discuss graphics, visualizations and interactives, but, in 2017, they were not aware of the tools built into Jupyter Notebooks and Jupyter Books.
+
+Today, Jupyter Notebooks are continuously extending the platform with new, powerful tools. The Daily Cal can work with the Berkeley creators of Jupyter Notebooks to extend the vision of the 2020 Group at the New York Times.
+
+Berkeley could pioneer  developing the tools of computational reporting.
 
 
-## All numerically-based assertions in any story should be accompanied by a Jupyter notebook
-### Containing:
+## All numerically-based assertions in any story should be accompanied by a Jupyter notebook containing:
 - all data source references
 - the accompanying data analysis
 - visualizations
 
-## News organizations contemplating taking this step
+## News organizations developing computational journalism
 
-Organization | Editor | Reporter
+Organization | Editor | Internal Groups
  :--- | :--- | :---
-New York Times  | [Dean P. Baquet](https://en.wikipedia.org/wiki/Dean_Baquet) |
+New York Times  | [Dean P. Baquet](https://en.wikipedia.org/wiki/Dean_Baquet) | [Amanda Cox](https://www.nytimes.com/2019/02/28/reader-center/data-visualization-editor-amanda-cox.html) and the 2020 Group; [**Open**](https://open.nytimes.com/)
 Associated Press | |[Garance "Poppy" Burke](https://blog.ap.org/announcements/ap-wins-rfk-award-for-immigration-coverage)
 Daily Californian  | [Soofie Motamedi](https://www.dailycal.org/2019/04/17/the-daily-californian-elects-soofie-motamedi-as-editor-in-chief-for-2019-20/)  |
 California Magazine  | [Pat Joseph](https://alumni.berkeley.edu/about-us) |
