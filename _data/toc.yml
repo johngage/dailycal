@@ -27,16 +27,20 @@
   not_numbered: true
 - title: Berkeley is the center of data science innovation
   url: /01BerkeleyDS/BerkeleyInnovation
-
+  not_numbered: true
+- title: Jupyter Books
+  url: /01BerkeleyDS/jupyterbooks
 
 - title: Data Journalism
   url: /datajournalism/databackedjournalism
+  not_numbered: true
   expand_sections: true
   sections:
-    - title: UCB Data Science 88 for Fall 2019
-      url: /datajournalism/jdata88
     - title: Scientific Data journalism
       url: /datajournalism/sciencejournalism
+    - title: UCB Data Science 88 for Fall 2019
+      url: /datajournalism/jdata88
+
 
 - title: Daily Cal Editorial, August 15,2019 - annotated
   url: /BART/2019-Aug-15
