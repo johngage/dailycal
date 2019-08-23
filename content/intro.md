@@ -10,7 +10,7 @@
 
 ___
 
-**Proposal**: Build a JupyterBook for each beat, with an initial JN listing all open data sources for that beat. For each story, the beat reporter adds a Jupyter Notebook showing how a particular story's data analysis was built, what data it drew from, and what analysis was done. Over time, the beat JupyterBook will be a permanent resource for new reporters, and will develop new, unexpected insights and storytelling formats as the Jupyter tools expand.
+**Proposal**: Build a JupyterBook for each beat, including all stories and all Jupyter Notebooks. Begin with an initial JN listing all open data sources for that beat. With each story, the beat reporter adds a Jupyter Notebook showing how a particular story's data analysis was built, what data it drew from, and what analysis was done. Over time, the beat JupyterBook will be a permanent resource for new reporters, and will develop new, unexpected insights and storytelling formats as the Jupyter tools expand.
 
 Develop this Daily Cal environment in collaboration with the Berkeley Institute for Data Science, specifically with Fernando Pérez, the creator of Jupyter Notebooks, and [Chris Holdgraf][chris] and [Sam Lau][sam], the creators of JupyterBooks. Sam taught [Data Science 100](http://www.ds100.org/su19/) this summer.
 
