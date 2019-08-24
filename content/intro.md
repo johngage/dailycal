@@ -10,7 +10,7 @@
 
 ___
 
-**Proposal**: Build a JupyterBook for each beat, starting with a few recent`2019 stories, and add a few Jupyter Notebooks for each story. One initial JN  should list open data sources for that beat, for example, [City of Berkeley Open Data](https://data.cityofberkeley.info/) or [BART open data](https://data.bart.gov/). For each new story, the beat reporter adds a Jupyter Notebook showing how a particular story's data analysis was built, what data it drew from, and what analysis was done. Over time, the beat JupyterBook will be a permanent resource for new reporters, and can help develop new, unexpected insights and storytelling formats as the Jupyter tools expand. With experience, it will become easier and quicker to add JN to past stories, allowing new stories to build on past reporting. 
+**Proposal**: Build a JupyterBook for each beat, starting with a few recent`2019 stories, and add a few Jupyter Notebooks for each story. One initial JN  should list open data sources for that beat, for example, [City of Berkeley Open Data](https://data.cityofberkeley.info/) or [BART open data](https://data.bart.gov/). For each new story, the beat reporter adds a Jupyter Notebook showing how a particular story's data analysis was built, what data it drew from, and what analysis was done. Over time, the beat JupyterBook will be a permanent resource for new reporters, and can help develop new, unexpected insights and storytelling formats as the Jupyter tools expand. With experience, it will become easier and quicker to add JN to past stories, allowing new stories to build on past reporting.
 
 Develop this Daily Cal environment in collaboration with the Berkeley Institute for Data Science, specifically with Fernando Pérez, the creator of Jupyter Notebooks, and [Chris Holdgraf][chris] and [Sam Lau][sam], the creators of JupyterBooks. Sam taught [Data Science 100](http://www.ds100.org/su19/) this summer.
 
@@ -46,8 +46,8 @@ Each draws on data from BART: from press releases, from interviews, from the Ope
 [BART aims to increase safety with 2020 budget, fare increase](https://www.google.com/url?client=internal-uds-cse&cx=004860988773045794728:o9buhn1rb8k&q=https://www.dailycal.org/2019/06/19/bart-aims-to-increase-safety-with-2020-budget-fare-increase/&sa=U&ved=2ahUKEwiTrK63m5TkAhUZITQIHYNmA0YQFjAOegQIAhAC&usg=AOvVaw1ChPySFC2P2JI1CXule3lo) | [YASMIN GRAEML](https://www.dailycal.org/author/ygraeml/)  |    | 2019/06/19
 [BART Budget](https://www.bart.gov/about/financials)  |    |   |
 |   |   |   |
-[BART announces plans for rail car assembly site in Bay Area](https://www.dailycal.org/2019/06/18/bart-announces-plans-for-rail-car-assembly-site-in-bay-area/) |   |   | 2019/06/18
-[Berkeley wades into developing North Berkeley BART station](https://www.google.com/url?client=internal-uds-cse&cx=004860988773045794728:o9buhn1rb8k&q=https://www.dailycal.org/2019/05/13/balancing-resident-input-berkeley-wades-into-developing-north-berkeley-bart-station/&sa=U&ved=2ahUKEwj6vr62mJTkAhWWFTQIHRN7ArwQFjAAegQIIxAC&usg=AOvVaw1OcFjvmetiJOtDiOFrDmbm)|  |  | 2019/05/13
+[BART announces plans for rail car assembly site in Bay Area](https://www.dailycal.org/2019/06/18/bart-announces-plans-for-rail-car-assembly-site-in-bay-area/) |  SELENA LIU  |   | 2019/06/18
+[Berkeley wades into developing North Berkeley BART station](https://www.google.com/url?client=internal-uds-cse&cx=004860988773045794728:o9buhn1rb8k&q=https://www.dailycal.org/2019/05/13/balancing-resident-input-berkeley-wades-into-developing-north-berkeley-bart-station/&sa=U&ved=2ahUKEwj6vr62mJTkAhWWFTQIHRN7ArwQFjAAegQIIxAC&usg=AOvVaw1OcFjvmetiJOtDiOFrDmbm)|  BRANDON YUNG |  | 2019/05/13
   |   |   |
 
 
