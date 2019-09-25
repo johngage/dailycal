@@ -4,13 +4,16 @@
 
 ### Can the Daily Cal create an innovative environment to extend computational journalism, and collaborate in the work done by, for example, the [New York Times **Open** group](https://open.nytimes.com/)?
 
-### Can the Daily Cal recruit hundreds of Data Science students from DS8 and DS100 to amplify and extend the data component of every story, from Sports to A&E to Opinion, from ASUC to City to State to UC to Research & Ideas?
+### Can the Daily Cal recruit hundreds of Data Science students from DS8 and DS100 to build data components for every story?
+
+- This fall, for selective Departments? for Sports to A&E to Opinion, for ASUC to City to State to UC to Research & Ideas?
+- for stories in the past, building the data component for all stories in Daily Cal archives?
 
 ### Can every story containing numerical data, maps, or statistics published by the Daily Cal be accompanied by an online Jupyter Notebook (JN) with open access to all supporting data?
 
 ___
 
-**Proposal**: Build a JupyterBook for each beat, starting with a few recent`2019 stories, and add a few Jupyter Notebooks for each story. One initial JN  should list open data sources for that beat, for example, [City of Berkeley Open Data](https://data.cityofberkeley.info/) or [BART open data](https://data.bart.gov/). For each new story, the beat reporter adds a Jupyter Notebook showing how a particular story's data analysis was built, what data it drew from, and what analysis was done. Over time, the beat JupyterBook will be a permanent resource for new reporters, and can help develop new, unexpected insights and storytelling formats as the Jupyter tools expand. With experience, it will become easier and quicker to add JN to past stories, allowing new stories to build on past reporting.
+**Proposal**: Build a JupyterBook for each beat, starting with a few recent 2019 stories, and add a few Jupyter Notebooks for each story. One initial JN  should list open data sources for that beat, for example, [City of Berkeley Open Data](https://data.cityofberkeley.info/) or [BART open data](https://data.bart.gov/). For each new story, the beat reporter adds a Jupyter Notebook showing how a particular story's data analysis was built, what data it drew from, and what analysis was done. Over time, the beat JupyterBook will be a permanent resource for new reporters, and can help develop new, unexpected insights and storytelling formats as the Jupyter tools expand. With experience, it will become easier and quicker to add JN to past stories, allowing new stories to build on past reporting.
 
 Develop this Daily Cal environment in collaboration with the Berkeley Institute for Data Science, specifically with Fernando Pérez, the creator of Jupyter Notebooks, and [Chris Holdgraf][chris] and [Sam Lau][sam], the creators of JupyterBooks. Sam taught [Data Science 100](http://www.ds100.org/su19/) this summer.
 
