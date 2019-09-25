@@ -22,7 +22,7 @@ email: john.gage@gmail.com
 description: >-
   Framework for Daily Cal data science
 baseurl: /dailycal            # the subpath of your site, e.g. /blog. If there is no subpath for your site, use an empty string ""
-url: https://john.gage.github.io            # the base hostname & protocol for your site, e.g. http://example.com
+url: https://johngage.github.io            # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #######################################################################################
