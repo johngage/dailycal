@@ -23,6 +23,8 @@ ___
 
 As an example, I've put a Jupyter Notebook in the Daily Cal [August 15 Editorial about BART](./BART/2019-Aug-15.html), where there's an assertion of declining customer satisfaction.  This accompanying JN creates a graph for the past five years of BART's customer satisfaction survey, using BART online data, and allows the reader to redo the analysis interactively.  You can run the notebook, live, using the Belab button at the top of the page.
 
+_You will notice that there is a slight arithmetic error in the Daily Cal editorial, resulting in an overstatement of customer dissatisfaction_
+
 
 From `BERKELEY’S NEWS
 Tuesday, August 20, 2019
