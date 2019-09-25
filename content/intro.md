@@ -31,6 +31,8 @@ Tuesday, August 20, 2019
 
 <img src="https://i0.wp.com/www.dailycal.org/assets/uploads/2019/08/coloredited_alexanderhong_bart_editorial.png?ssl=1&w=900" class="left">
 
+___
+
 `
 #### Look at some Daily Cal stories from the past few weeks about BART.
 Each draws on data from BART: from press releases, from interviews, from the Open BART data sources. It would be easy to build a JN for each of them. Over time, each story in the past could be reworked with a JN computational companion.
