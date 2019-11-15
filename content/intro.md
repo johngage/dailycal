@@ -1,6 +1,6 @@
 # The Daily Californian and data-backed stories
 
-### Can the [**Daily Cal**](https://www.dailycal.org/) develop and extend new forms of journalism built on open data, open analysis, and open sources, building on the explosion at Cal of Data Science?
+### Can the [**Daily Cal**](https://www.dailycal.org/) develop and extend new forms of data journalism built on open data, open analysis, and open sources, building on the explosion at Cal of Data Science?
 
 ### Can the Daily Cal create an innovative environment to extend computational journalism, and collaborate in the work done by, for example, the [New York Times **Open** group](https://open.nytimes.com/)?
 
